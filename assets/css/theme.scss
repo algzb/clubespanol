@@ -17,7 +17,7 @@ html {
   }
   
 body {
-    background:#fff;
+    background:lightblue;
     font-size:17px;
     transition: all 200ms linear;
     font-family: "PT Sans",sans-serif;
@@ -111,7 +111,7 @@ small, .small {
 	-webkit-transition : all 0.3s ease-out;
 	transition : all 0.3s ease-out;
     position:fixed;
-    background:lightblue;
+    background:#01d0fb;
 	border-bottom: 3px solid #000;
 }
 .social-icon {
@@ -139,9 +139,9 @@ small, .small {
 /* Pages
 ================================================== */
 .hero {
-    background: #01d0fb;
+    background: lightblue;
     padding: 5rem 5rem;
-margin-top: 100px;	
+margin-top: 80px;	
 }
 
 @media only screen and (max-width: 1024px) {
