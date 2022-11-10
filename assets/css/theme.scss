@@ -111,7 +111,8 @@ small, .small {
 	-webkit-transition : all 0.3s ease-out;
 	transition : all 0.3s ease-out;
     position:fixed;
-    background:orange;
+    background:#fff;
+	border-bottom: 3px solid #000;
 }
 .social-icon {
     display: inline-block !important;
