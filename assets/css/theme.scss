@@ -116,10 +116,13 @@ small, .small {
 }
 .social-icon {
     display: inline-block !important;
-    width: 20px;
-    height: 20px;
+    width: 27px;
+    height: 27px;
     margin-left: 15px;
 }
+
+.navbar-expand-lg .navbar-nav .nav-link 
+{font-size: 20px;}
 
 /* Sidebar
 ================================================== */
