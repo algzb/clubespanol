@@ -1,16 +1,16 @@
 # Top Menu
 topmenu:
 
-- title: Home
+- title: Inicio
   url: ""
 
-- title: About
+- title: Sobre el Club
   url: "about/"
 
-- title: Contact
+- title: Contáctenos
   url: "contact/"
 
-- title: Get this theme  
+- title: Únete al Club  
   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
